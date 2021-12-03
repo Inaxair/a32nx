@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/flybywiresim/fbw-branding/master/svg/FBW-Logo.svg" placeholder="FlyByWire" width="400"/>
+![Group 7 (2)](https://user-images.githubusercontent.com/70079939/144658150-9cc8f915-0020-4a27-975e-cb1e24d2b370.png)
+
 
 # FlyByWire Simulations A32NX
 
